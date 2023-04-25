@@ -1,11 +1,3 @@
-<a name="readme-top"></a>
-<div align="center">
-  <img src="jojo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  # Hello Microverse  Project  Documentation
-</div>
-
 # 📗 Table of Contents
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
@@ -27,7 +19,6 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 # 📖 Hello Microverse <a name="about-project"></a>
 
 **Hello Microverse Project** is a project required as part of the microverse  project tasks for day two, the project makes use of HTML and CSS to create a simple webpage, the objective is to help students understand how to use the Git/Github, understand Github flows and the use of linters.
@@ -50,8 +41,6 @@
   </ul>
 </details>
 
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
 
 - **HTML to prepare the page semantics**
@@ -61,15 +50,12 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="Ejike Richard"></a>
 
 - Live demo comming soon 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -116,7 +102,6 @@ You can deploy this project by:
 -  Running the index.html
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Ejike Richard**
@@ -127,10 +112,7 @@ You can deploy this project by:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- FUTURE FEATURES -->
 ## 🔭 Future Features <a name="future-features"></a>
-
 
 - [x] Linters to improve code functionality, site speed and code understanding
 - [x] Semantically designed html/css codes
@@ -141,8 +123,6 @@ You can deploy this project by:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -150,8 +130,6 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](https://github.com/microverseinc/curriculum-html-css/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -162,7 +140,6 @@ If you like this project , please show your support by;
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank :
@@ -172,7 +149,6 @@ for their support and guidiance during the project building.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
 ## ❓ FAQ <a name="faq"></a>
   - Can I contribute to the project?
     - Ans: Yes, we welcome contributions from the open source community
@@ -185,7 +161,6 @@ for their support and guidiance during the project building.
 - **[Experience]**
  - [3 years]
 
-<!-- LICENSE -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"> </a>
