@@ -1,9 +1,9 @@
 <a name="readme-top"></a>
 <div align="center">
-  <img src="jojo.pnd" alt="logo" width="140"  height="auto" />
+  <img src="jojo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  # Microverse Readme Documentation
+  # Hello Microverse  Project  Documentation
 </div>
 
 # 📗 Table of Contents
